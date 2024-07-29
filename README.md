@@ -16,8 +16,8 @@ This project aims to predict the species of fish based on various measurements s
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/KanikaaN/FishSpeciesPred
+   cd FIshSpeciesPred
    ```
 
 2. **Install the required packages:**
